@@ -51,7 +51,7 @@ Contributions are welcome! Please open an issue or submit a pull request if you 
 
 ## Contact
 
-For any inquiries or support, please contact [your email address].
+For any inquiries or support, please contact toomeyastephen@gmail.com.
 
 ---
 
